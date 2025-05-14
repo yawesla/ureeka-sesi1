@@ -8,3 +8,4 @@ Github
 - git commit : save
 - git checkout -b [nama branch]: make new branch
 - git status
+- git branch : apa branch yg kita punya
