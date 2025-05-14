@@ -1,0 +1,10 @@
+Github
+
+- Git clone
+- git push
+- git pull 
+- git merge
+- git add = git add all
+- git commit : save
+- git checkout -b [nama branch]: make new branch
+- git status
