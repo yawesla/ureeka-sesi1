@@ -27,4 +27,5 @@ Urutan Project pakai github command:
 11. git push main/dev
 
 Push Vs merge
-Push 
+Push = masukin folder/file/codingan klean ke global git nya -> programmer lain bisa liat /clone
+Merge = 
