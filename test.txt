@@ -1,0 +1,12 @@
+# Function 1: Login 
+
+# Function 1 : authentifikasi (dari branch dev)
+
+# Function 2 : Register 
+
+
+
+#Function 5 : Add Favorite
+-- read X
+-- read Y
+-- read Z
