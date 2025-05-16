@@ -28,4 +28,4 @@ Urutan Project pakai github command:
 
 Push Vs merge
 Push = masukin folder/file/codingan klean ke global git nya -> programmer lain bisa liat /clone
-Merge = 
+Merge = menggabungkan dari 2 branch yg berbeda
